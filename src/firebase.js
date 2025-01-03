@@ -3,12 +3,12 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore/lite";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBA3D7rB15bGmBur-CdpMZ4KpTSxEwklaM",
-  authDomain: "reactfb9router6vite04firestore.firebaseapp.com",
-  projectId: "reactfb9router6vite04firestore",
-  storageBucket: "reactfb9router6vite04firestore.firebasestorage.app",
+  apiKey: "YourApiKey",
+  authDomain: "YourAuthDomain.firebaseapp.com",
+  projectId: "YourProjectID",
+  storageBucket: "YourStorageBucket.firebasestorage.app",
   messagingSenderId: "372910997244",
-  appId: "1:372910997244:web:12dad36df6f884706e6179"
+  appId: "YourApoID"
 };
 
 // Initialize Firebase
